@@ -1,5 +1,7 @@
 # ZhuaTech SafetyAI
 
+[简体中文](README.md) | [English](README.en.md)
+
 ## 知华作业安全 AI 社区版
 
 **先识别风险，再由责任人决定是否放行。**
